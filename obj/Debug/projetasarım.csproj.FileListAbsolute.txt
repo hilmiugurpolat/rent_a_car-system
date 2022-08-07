@@ -1,0 +1,55 @@
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\bin\Debug\projetasarım.exe.config
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\bin\Debug\projetasarım.exe
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\bin\Debug\projetasarım.pdb
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\obj\Debug\projetasarım.csprojAssemblyReference.cache
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\obj\Debug\projetasarım.Form1.resources
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\obj\Debug\projetasarım.Properties.Resources.resources
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\obj\Debug\projetasarım.csproj.GenerateResource.cache
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\obj\Debug\projetasarım.csproj.CoreCompileInputs.cache
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\obj\Debug\projetasarım.csproj.CopyComplete
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\obj\Debug\projetasarım.exe
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\obj\Debug\projetasarım.pdb
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\obj\Debug\projetasarım.Form2.resources
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\obj\Debug\projetasarım.Form3.resources
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\obj\Debug\projetasarım.Form4.resources
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\obj\Debug\projetasarım.Form5.resources
+C:\Users\umutg\Desktop\c# denemeler\projetasarım\obj\Debug\projetasarım.Form6.resources
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\bin\Debug\projetasarım.exe.config
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\bin\Debug\projetasarım.exe
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\bin\Debug\projetasarım.pdb
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\obj\Debug\projetasarım.csprojAssemblyReference.cache
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\obj\Debug\projetasarım.Properties.Resources.resources
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\obj\Debug\projetasarım.csproj.GenerateResource.cache
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\obj\Debug\projetasarım.csproj.CoreCompileInputs.cache
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\obj\Debug\projetasarım.csproj.CopyComplete
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\obj\Debug\projetasarım.exe
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\obj\Debug\projetasarım.pdb
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\obj\Debug\projetasarım.anasayfa.resources
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\obj\Debug\projetasarım.müsterikayıt.resources
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\obj\Debug\projetasarım.musteri_listeleleme.resources
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\obj\Debug\projetasarım.arac_kayit.resources
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\obj\Debug\projetasarım.arac_listeleme.resources
+C:\Users\Hilmi Uğur POLAT PC\Desktop\projetasarm (1)\projetasarım\obj\Debug\projetasarım.arac_kiralama.resources
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\bin\Debug\projetasarım.exe.config
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\bin\Debug\projetasarım.exe
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\bin\Debug\projetasarım.pdb
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\obj\Debug\projetasarım.csprojAssemblyReference.cache
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\obj\Debug\projetasarım.anasayfa.resources
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\obj\Debug\projetasarım.müsterikayıt.resources
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\obj\Debug\projetasarım.musteri_listeleleme.resources
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\obj\Debug\projetasarım.arac_kayit.resources
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\obj\Debug\projetasarım.arac_listeleme.resources
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\obj\Debug\projetasarım.arac_kiralama.resources
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\obj\Debug\projetasarım.Properties.Resources.resources
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\obj\Debug\projetasarım.csproj.GenerateResource.cache
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\obj\Debug\projetasarım.csproj.CoreCompileInputs.cache
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\obj\Debug\projetasarım.csproj.CopyComplete
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\obj\Debug\projetasarım.exe
+C:\Users\Hilmi Uğur POLAT PC\Desktop\BM-102 PROJE SON HALİ\projetasarım\obj\Debug\projetasarım.pdb
+C:\Users\hilmi\OneDrive\Masaüstü\yedek\BM-102 PROJE SON HALİ - Kopya\projetasarım\obj\Debug\projetasarım.csproj.AssemblyReference.cache
+C:\Users\hilmi\OneDrive\Masaüstü\yedek\BM-102 PROJE SON HALİ - Kopya\projetasarım\obj\Debug\projetasarım.exe
+C:\Users\hilmi\OneDrive\Masaüstü\yedek\BM-102 PROJE SON HALİ - Kopya\projetasarım\obj\Debug\projetasarım.pdb
